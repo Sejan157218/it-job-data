@@ -2,6 +2,7 @@
     {
       "id": "fgdfgdfg1",
       "title": "Front End Developer",
+      "Company": "Ash-it",
       "shift": "Day",
       "vacancy": 2,
       "salary": 20000,
@@ -10,6 +11,7 @@
     {
       "id": "fgdfgdfg2",
       "title": "React JS Developer",
+      "Company": "Ash-it1",
       "shift": "Day",
       "vacancy": 5,
       "salary": 20000,
@@ -18,6 +20,7 @@
     {
       "id": "fgdfgdfg3",
       "title": "Front End Developer",
+      "Company": "Ash-it2",
       "shift": "Day",
       "vacancy": 2,
       "salary": 20000,
@@ -26,6 +29,7 @@
     {
       "id": "fgdfgdfg4",
       "title": "Javascript Developer",
+      "Company": "Ash-it3",
       "shift": "Day",
       "vacancy": 4,
       "salary": 20000,
@@ -34,6 +38,7 @@
     {
       "id": "fgdfgdfg5",
       "title": "Front End Developer",
+      "Company": "Ash-it4",
       "shift": "Day",
       "vacancy": 2,
       "salary": 20000,
@@ -42,6 +47,7 @@
     {
       "id": "fgdfgdfg6",
       "title": "Back End Developer",
+      "Company": "Ash-it5",
       "shift": "Day",
       "vacancy": 4,
       "salary": 20000,
@@ -50,6 +56,7 @@
     {
       "id": "fgdfgdf7",
       "title": "Front End Developer",
+      "Company": "Ash-it6",
       "shift": "Day",
       "vacancy": 3,
       "salary": 20000,
@@ -58,6 +65,7 @@
     {
       "id": "fgdfgdfg8",
       "title": "Full Stack Developer",
+      "Company": "Ash-it7",
       "shift": "Day",
       "vacancy": 2,
       "salary": 20000,
@@ -66,6 +74,7 @@
     {
       "id": "fgdfgdfg9",
       "title": "MERN Stack Developer",
+      "Company": "Ash-it7",
       "shift": "Day",
       "vacancy": 2,
       "salary": 20000,
@@ -74,6 +83,7 @@
     {
       "id": "fgdfgdfg10",
       "title": "Front End Developer",
+      "Company": "Ash-it8",
       "shift": "Day",
       "vacancy": 2,
       "salary": 20000,
@@ -82,6 +92,7 @@
     {
       "id": "fgdfgdfg11",
       "title": "Full Stack Developer",
+      "Company": "Ash-it9",
       "shift": "Day",
       "vacancy": 2,
       "salary": 20000,
@@ -90,6 +101,7 @@
     {
       "id": "fgdfgdfg12",
       "title": "Front End Developer",
+      "Company": "Ash-it10",
       "shift": "Day",
       "vacancy": 2,
       "salary": 20000,
@@ -98,6 +110,7 @@
     {
       "id": "fgdfgdfg13",
       "title": "MERN Stack Developer",
+      "Company": "Ash-it11",
       "shift": "Day",
       "vacancy": 2,
       "salary": 20000,
@@ -106,6 +119,7 @@
     {
       "id": "fgdfgdfg14",
       "title": "React JS Developer",
+      "Company": "Ash-it12",
       "shift": "Day",
       "vacancy": 2,
       "salary": 20000,
@@ -114,6 +128,7 @@
     {
       "id": "fgdfgdfg",
       "title": "Front End Developer",
+      "Company": "Ash-it13",
       "shift": "Day",
       "vacancy": 2,
       "salary": 20000,
@@ -122,6 +137,7 @@
     {
       "id": "fgdfgdfg15",
       "title": "React JS Developer",
+      "Company": "Ash-it14",
       "shift": "Day",
       "vacancy": 2,
       "salary": 20000,
@@ -130,6 +146,7 @@
     {
       "id": "fgdfgdfg16",
       "title": "Front End Developer",
+      "Company": "Ash-it15",
       "shift": "Night",
       "vacancy": 2,
       "salary": 20000,
@@ -138,6 +155,7 @@
     {
       "id": "fgdfgdfg17",
       "title": "Back End Developer",
+      "Company": "Ash-it16",
       "shift": "Day",
       "vacancy": 5,
       "salary": 25000,
